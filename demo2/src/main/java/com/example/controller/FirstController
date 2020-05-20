@@ -8,6 +8,7 @@ public class FirstController {
 
     public static void main(String[] args) {
         SpringApplication.run(FirstController.class, args);
+        String ss = "ssss";
     }
 
 }
